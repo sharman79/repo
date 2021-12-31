@@ -76,12 +76,12 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/appstore++_0.9.16-2.deb
-Size: 1647416
-MD5sum: 88fcda80190b5482d3befafe125f944c
-SHA1: cdc7f671ea071d20b4d956ae00836bdf986363d7
-SHA256: dda96ceef398223380b1a941187f1d985ccaadb212d8a59f27a40f2666930b37
-Section: 系统插件
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 1646676
+MD5sum: bfcc3cceae0aadd96685b3dc10aaca1e
+SHA1: 88ca3f7a9767aeb75981e86a7c1d4d976342cab3
+SHA256: c006ceeeccc7e754941be92f19288efa75831227136f77e71fee646167ff7c2d
+Section: Tweaks
 Priority: optional
 Description: 0.9.16-2老版本，不冲突版本
 Author: CokePokes
@@ -93,12 +93,12 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: sharman
 Depends: mobilesubstrate
-Filename: ./debs/dockx.cn.deb
-Size: 7572
-MD5sum: 727c74a612df32370bd3b90c165e85df
-SHA1: 3ab069f1ba20ac50c1496e638aec1e24417b26b8
-SHA256: 3aab574c269d5c0f852c775e0c49def9c136bfd6794c26b0b829a0ce45675a54
-Section: zh_CH
+Filename: ./debs/com.dockx.cn_0.1_iphoneos-arm.deb
+Size: 7576
+MD5sum: eb35a0c1741054e3215be6dda6164b34
+SHA1: 1c22bd330c374f84d51e9b011de60313413c7fea
+SHA256: 7e7a891f54001b57bbd91e81db0ca3d0eadf027a9989ab0290df16a0229059c6
+Section: zh_CN
 Description: None
 Author: sharman
 Name: Dock X中文包
@@ -293,12 +293,12 @@ Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: Sandy0
 Depends: mobilesubstrate
-Filename: ./debs/Frame.cn.deb
+Filename: ./debs/com.hk.frame.cn_2.3.1_iphoneos-arm.deb
 Size: 2152
-MD5sum: a958e93a127ebb70504531d778597362
-SHA1: 81c1f140da8fa8f4645b5a976f6ec1c537afeaa8
-SHA256: be9d09d8dd23aa576cf7b23b01f44ecfd6b287499d5ed8dca32e28745ddf42c5
-Section: zh_CH
+MD5sum: 00f350d8a665e6308e151297545ce182
+SHA1: bb4dc0338df69fda33778a238f793196a44388c8
+SHA256: 664c08178e95fbba1496c0e228ce040f5543cb311f1f43674cd371eb5f40664a
+Section: zh_CN
 Description: None
 Author: Sandy0
 Name: Frame 中文包
@@ -448,12 +448,12 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: sharman
 Depends: mobilesubstrate
-Filename: ./debs/Orion.cn.deb
-Size: 28688
-MD5sum: 8bfd44e022b761300a5f681ba50a4404
-SHA1: 31b5245ca91ce7fddf6b21c5853eb5c85456012a
-SHA256: 81e6201ab7101b1c0d9b06c513997494a7614d41730871819f66913ab50bf51a
-Section: zh_CH
+Filename: ./debs/com.orion.cn_0.1_iphoneos-arm.deb
+Size: 28692
+MD5sum: fd0b3ba0afd5db7d77782c84388918df
+SHA1: e7c4e2084c6a0b5e0e5a1bf1aecc64466bc79b6e
+SHA256: 7660aa42149339cf8afe3edc643b881bc7bc78aae5d032bbffb6886a064d8836
+Section: zh_CN
 Description: None
 Author: sharman
 Name: Orion 中文包
@@ -480,12 +480,12 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: sharman
 Depends: mobilesubstrate
-Filename: ./debs/Powercuff.cn.deb
-Size: 1136
-MD5sum: ea52acc72227b0275c135b2a1099c174
-SHA1: 664b41b5d4882aed2de5fbb676c6654867037e7b
-SHA256: 0f6e848da490728aa6accaca9de58f713c518f00a24fbd0ad957b4e70083a845
-Section: zh_CH
+Filename: ./debs/com.powercuff.cn_0.1_iphoneos-arm.deb
+Size: 1140
+MD5sum: 50732766a8b263b26d3cb23088bcc2fc
+SHA1: 4bf5fc954021abb1aa275b7faea25696bc4e22bb
+SHA256: 0a43f4da5ca177c8fdc248b1efc8d68cd9df593ce2a2da2a9ddbeff7142e89df
+Section: zh_CN
 Description: None
 Author: sharman
 Name: powercuff 中文包
@@ -534,12 +534,12 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: sharman
 Depends: mobilesubstrate
-Filename: ./debs/Shortlook.cn.deb
-Size: 2496
-MD5sum: 82b0d300de000b32d65c548dbbaec4b1
-SHA1: 6739118854bc5208a3a6aaeaafbc0a72b7e7c8eb
-SHA256: 3c09ce00330f565d774028b613ef79834a55eeec123642cd0f461fbb8692b1de
-Section: zh_CH
+Filename: ./debs/com.shortlook.cn_0.1_iphoneos-arm.deb
+Size: 2500
+MD5sum: 211d6b54e30e556bdc3ff21b8050cf1f
+SHA1: 9e17db75c50cfa1cb64065d0b21399edf9b8e0e6
+SHA256: 88a5e3b94c78ddcfdc4800cdc6b43f988dc9d8703a1b1ae3cf549c7d448eb7bf
+Section: zh_CN
 Description: None
 Author: sharman
 Name: shortlook 中文包
@@ -601,12 +601,12 @@ Architecture: iphoneos-arm
 Maintainer: udevs
 Installed-Size: 1384
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
-Filename: ./debs/Bakgrunnur_1.5.13.deb
-Size: 237836
-MD5sum: 50efd8bd60ccbd26f4647ca1d698a705
-SHA1: 3363d4633d45ac7734bf383b32ce8062ff8ac05b
-SHA256: f62ba65db03a25580e47c0accbe64811e53a6bbc2aec008d0cbe550fc441ef53
-Section: 系统插件
+Filename: ./debs/com.udevs.bakgrunnur_1.5.13_iphoneos-arm.deb
+Size: 237928
+MD5sum: bd96b5074f91653274127b236b568e40
+SHA1: f13aa28ffcc1d5b3e5d84ba87ef75597c265a2f6
+SHA256: 6b08e6a44a562d7754e6297f5985a8bf41d3a2e7a8d02a9a61f43bc3e2a6d8db
+Section: Tweaks
 Description: 1.5.13老版本，无需vexillarius依赖版本
 Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
@@ -960,11 +960,11 @@ Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/netskao.kanosplash_1.1-3_iphoneos-arm.deb
-Size: 77792
-MD5sum: c762f143ade132af31dcb66459a685ee
-SHA1: b7b7ff75d2f823b0ecdc45dfc1bcd030520a2616
-SHA256: bc3838a0e33722a23689730a760e9296c3eb23e2b114a04f87df254bca99f87c
-Section: Netskao-NoSplash
+Size: 77876
+MD5sum: d763fbd85e2662d91e168f1855bf3e1a
+SHA1: 3a239df50a0802b581d176954e00a25c7478efe6
+SHA256: 8b4aeb285f04bd2aac7155a47adf9e7009e764cf5fc5706547ad63e2e083e862
+Section: NoAds
 Description: 酷安去除启动广告
 Author: Netskao
 Name: 酷安 NoSplash
@@ -1360,7 +1360,7 @@ Description: Surge4全功能解锁，支持商店版和TF版本
 Author: Nyxz
 Name: Surge4 Patch
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.4.0
 Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1368,11 +1368,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.4.0.deb
-Size: 48780
-MD5sum: df55ea8463ec6fba581bed9ceef9debb
-SHA1: 0625c6f9a14340ac3dbe45214e70054c74fbbce5
-SHA256: ad6239c662791d2b5b6acc050f1ee023f29abf33538031c0a43c9566093bf7ff
+Filename: ./debs/libhooker1.4.0_1.4.0_iphoneos-arm.deb
+Size: 48824
+MD5sum: 51152517e8bee2c7b094b67648191bf2
+SHA1: 350aad8bd49e11f0c75d2d2ff8b2cda83e54ea2a
+SHA256: 2498e28e6ca7eb5538e016e5be16dc38586147bac687a34bb1aa5ee291058048
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1380,7 +1380,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.4.9
 Version: 1.4.9~beta2
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1388,11 +1388,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.4.9~beta2.deb
-Size: 48772
-MD5sum: 8d100d80d2c301290e9b88d7c0d62cee
-SHA1: c0eae4d79c3b5e16ac005c66f23c3b85b6ae886d
-SHA256: 0a79b5df676b497105693e0968cc7c13e766edd95310dc665989b5572dcefcba
+Filename: ./debs/libhooker1.4.9_1.4.9~beta2_iphoneos-arm.deb
+Size: 48788
+MD5sum: ae1f1766197fbcb579b03a646b4d15a7
+SHA1: bde820792a7d320b19f9acd96e37c9c799efb797
+SHA256: 8f935da210e63fb43656a38ff072e112c14e8c56f30e7d415ac0bd0fe2046448
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1400,7 +1400,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.5.0
 Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1408,11 +1408,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.5.0.deb
-Size: 48948
-MD5sum: 665629b9a765287ee07496f21c9634f7
-SHA1: 85f5546a40cedfac305aa99ecfcb3c9427859dab
-SHA256: 62475230abb434c485b074629a38ffcce694ff9888983a0665831fc66f82462a
+Filename: ./debs/libhooker1.5.0_1.5.0_iphoneos-arm.deb
+Size: 48936
+MD5sum: ac95cf29c1b4b3e10bce5167a5e86074
+SHA1: 6ad4fbeca5bd22423df213fc75828cc73a12538b
+SHA256: bb2588c0b86e4c956b48334e9cf95ca2cbfb9089caca5ff20ef11f0f250e82ba
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1420,7 +1420,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.5.1
 Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1428,11 +1428,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.5.1.deb
-Size: 48376
-MD5sum: 1a54841085451fa3f2f68ff938d26ce5
-SHA1: 8e62d90fcc7d869aa10c225b69dd4384065470ec
-SHA256: 173b9b9b28367cdde2f968f06c01e984733d6311dfc4a4e53ca1b4b690a11946
+Filename: ./debs/org.coolstar.libhooker1.5.1_1.5.1_iphoneos-arm.deb
+Size: 48444
+MD5sum: b0563b954f1881ad9e6cf3410f05e129
+SHA1: c11aec2b91311a1dcd861dd2997414c8b0c6728c
+SHA256: e65f4825523318d9c09df9c76a169a45a463ca8ed0fae6c705f248eaf65d1988
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1440,7 +1440,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.5.2
 Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1448,11 +1448,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.5.2.deb
-Size: 48516
-MD5sum: 78758cf96a068d77ad085a6948684682
-SHA1: 85103bf905168557427703e96e2c1b7ea404dae4
-SHA256: 741a28b556f7b174b488cace48a759c85be2d7579b967330ff3cd40d978fdaa9
+Filename: ./debs/org.coolstar.libhooker1.5.2_1.5.2_iphoneos-arm.deb
+Size: 48512
+MD5sum: 0d54b68fa10631b6f13755d989d3291c
+SHA1: a3549005b0868d71bfd8a7e54c9075b5885ff26e
+SHA256: 55f1048eb26e0b0a676fe1bf4ab06ade8222a01e6817be52f9ca705e29afea5e
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1460,7 +1460,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.5.3
 Version: 1.5.3~beta2
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1468,11 +1468,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.5.3~beta2.deb
-Size: 49008
-MD5sum: 6fb92160b3311ea5473e099eedf8a3aa
-SHA1: 868a2101702e80872c8798fe7f0d6d4307a6e30a
-SHA256: a7edcac9a8cabc2199c8a03ca3e050526f0e977ed9f1b244f04677eaac0e42e1
+Filename: ./debs/org.coolstar.libhooker1.5.3_1.5.3~beta2_iphoneos-arm.deb
+Size: 48916
+MD5sum: 59a99579a178127f36973ac6f1ff6bcc
+SHA1: 0885b0fabde39f14c7c232afb5d618b7bdb13f35
+SHA256: 94d9bd00e85fc3ccef30fd709d21a499e0ca2c4213457f2698c75cc0377767f1
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1480,7 +1480,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.5.4
 Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1488,11 +1488,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.5.4.deb
-Size: 48924
-MD5sum: c8e3f32a5b5ed14c3422552048164bad
-SHA1: 9a2b7352d59059edcb7890296c281780bb4175b9
-SHA256: d133a8428834467a862796c626aafb526a6523ee4795fcbd8ab01e79e681d4ad
+Filename: ./debs/org.coolstar.libhooker1.5.4_1.5.4_iphoneos-arm.deb
+Size: 49004
+MD5sum: cbc0c0708e34a327b39a38fff8663385
+SHA1: 8ec50a2212e9b4890d53adb659b6f9fe9e12e656
+SHA256: 59cffe2bcd51ca6c1911f6291b670a569ee2a569447d45da774b33f3f345b9dd
 Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1500,7 +1500,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.5.5
 Version: 1.5.5
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1508,11 +1508,11 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.5.5.deb
-Size: 50500
-MD5sum: f697437823d6a61243ce2f08dee53e18
-SHA1: e5e64380c95e24aa8c5cb345b4740e1020ed4fc7
-SHA256: 995a03f27210a0350ebf76161848009afb753e1d9fed3af3597f5d174b0b20a6
+Filename: ./debs/org.coolstar.libhooker1.5.5_1.5.5_iphoneos-arm.deb
+Size: 50544
+MD5sum: c11989ea53df8432fe80ab41240a7daa
+SHA1: c4681a7128c48f93ed80938b6fe8557aa3aa5025
+SHA256: 17c12cc732cd154e34ff01ee0235ec60404de00d2957060455cef47155e207af
 Section: libhooke
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
@@ -1520,7 +1520,7 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
-Package: org.coolstar.libhooker
+Package: org.coolstar.libhooker1.6.0
 Version: 1.6.0
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -1528,12 +1528,32 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.6.0.deb
-Size: 53676
-MD5sum: 92bb0205354aa4b1419fe3e573969184
-SHA1: 6985da174eb0252057032f7210dffd7b52de0618
-SHA256: c3ba396c1c71ef407e13c2e1e1f4fe97c34d94f3ac104f35af73c9893b97f3fb
+Filename: ./debs/org.coolstar.libhooker1.6.0_1.6.0_iphoneos-arm.deb
+Size: 53728
+MD5sum: 429063f246b7dd40ead6e0c8881698de
+SHA1: 861821251cad95565f198cc6a2887483550552e0
+SHA256: 1cd452fe5687ee3421f1d2af812b02911d53982b946a9f9da2b89eedcad9229e
 Section: libhooker
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
+Name: libhooker
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
+
+Package: org.coolstar.libhooker1.6.3
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
+Filename: ./debs/org.coolstar.libhooker1.6.3_1.6.3_iphoneos-arm.deb
+Size: 54020
+MD5sum: f4a1d83f70995311063f3e3df9a2c260
+SHA1: fabb6eb1a215cff9a44eb9e2484a630d8e0ec41c
+SHA256: 64738781f4929fbdd18616d09c1bcc00dd41d3699a3734feb6595b4cc9811c14
+Section: System
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
 Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
