@@ -1509,11 +1509,11 @@ Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libh
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
 Filename: ./debs/org.coolstar.libhooker1.5.5_1.5.5_iphoneos-arm.deb
-Size: 50544
-MD5sum: c11989ea53df8432fe80ab41240a7daa
-SHA1: c4681a7128c48f93ed80938b6fe8557aa3aa5025
-SHA256: 17c12cc732cd154e34ff01ee0235ec60404de00d2957060455cef47155e207af
-Section: libhooke
+Size: 50540
+MD5sum: 69eda9ebce5e576c88cece181c90c070
+SHA1: 74f10cc537dce9325ca2ea45d9cc9c1f8ace3456
+SHA256: 311a1aa11b48db3bcf195207db31d18b389faeb4013659a025b0c908f5b44a83
+Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
 Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
@@ -1549,11 +1549,11 @@ Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libh
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
 Filename: ./debs/org.coolstar.libhooker1.6.3_1.6.3_iphoneos-arm.deb
-Size: 54020
-MD5sum: f4a1d83f70995311063f3e3df9a2c260
-SHA1: fabb6eb1a215cff9a44eb9e2484a630d8e0ec41c
-SHA256: 64738781f4929fbdd18616d09c1bcc00dd41d3699a3734feb6595b4cc9811c14
-Section: System
+Size: 54048
+MD5sum: d0ecb0624b87c786aa6fa6606c735136
+SHA1: 51ace2e637fa1a2a6a4489875723ddfee47fd547
+SHA256: c8e954277cad414a3e1588593452407fe9a113272b57b523aafc38b5c1e16488
+Section: libhooker
 Description: General Purpose Injection and Hooking library for 64-bit devices
 Author: CoolStar <coolstarorganization@gmail.com>
 Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
