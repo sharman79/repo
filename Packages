@@ -175,42 +175,6 @@ Icon: https://yttxcs.com/image/icon/cn.yttxcs.nudedock.png
 Name: 透明Dock
 Sponsor: evan
 
-Package: com.evanios.photosnoforyou
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/删除为你推荐.deb
-Size: 7832
-MD5sum: c60aa2e50f818569e79f59b9ce72c9e6
-SHA1: aff2950b8f07257f1f971155edf6a2642969081e
-SHA256: 08585de4a17e42411f1a503dd2caf5f819375dc22e9c523426c989da26b5c9d5
-Section: Tweaks
-Description: None
-Author: Brend0n <brendonjkding@126.com>
-Name: 删除照片中的为你推荐
-
-Package: com.exile90.icleanerpro
-Version: 7.9.1
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/iCleanerpro_7.9.1.deb
-Size: 3933796
-MD5sum: 417379c6ee3c076852f32b2c59d987ac
-SHA1: cd35d711696abae01a5e0858b4a530c5f7a36a8a
-SHA256: fe1ea4366f679657243c9fe845e01d5d833f798bd1f25983b1f1ae6378a9a817
-Section: Tools
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
-
 Package: com.hk.audio.xr1241
 Version: 1.0
 Architecture: iphoneos-arm
@@ -386,25 +350,6 @@ Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
 Name: LocationService (CCSupport)
 
-Package: com.johnzaro.orion
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: John Zarogiannis <johnzrgnns@gmail.com>
-Installed-Size: 8572
-Depends: firmware (>=13.0), firmware (<=14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
-Filename: ./debs/orion.deb
-Size: 1756600
-MD5sum: dbba953eb7f213da23cec3d2b32cf58f
-SHA1: 4f5ec2a20ff2a42b5d2036f8cf11cbbc1dbb6a31
-SHA256: 8ade2ba570e1b451e29d17fd7eed030e50e53ac8b236e252d29c060d5152b101
-Section: Tweaks
-Description: An All-In-One Tweak For iOS 13.0 - 14.5
-Tag: cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.4
-Author: John Zarogiannis <johnzrgnns@gmail.com>
-Depiction: https://chariz.com/buy/orion
-Icon: https://chariz.com/cdn/icon/orion/icon@3x.png
-Name: Orion
-
 Package: com.lenglengyu.proknockout
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -475,6 +420,22 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/Snapper2CC/icon.png
 Name: Snapper2 CC Toggle
 
+Package: com.photosnoforyou
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Brend0n
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.photosnoforyou_0.0.3_iphoneos-arm.deb
+Size: 7796
+MD5sum: 79447c734da861958ef5a6b419f8ac99
+SHA1: 6990a9c325f43cf475dbbf77c9f436bb3cc20fa4
+SHA256: 3b685a3d197310478c2a6eaeeb3c0de306ce3bf68b8c61eb99bd982c9ebe9dfe
+Section: Tweaks
+Description: None
+Author: None
+Name: 删除照片中的为你推荐
+
 Package: com.powercuff.cn
 Version: 0.1
 Architecture: iphoneos-arm
@@ -528,6 +489,39 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Dev: rpetrich
 Name: Powercuff
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.sharman.orion
+Version: 1.1.0
+Architecture: iphoneos-arm
+Depends: firmware (>=13.0), firmware (<=14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debs/com.sharman.orion_1.1.0_iphoneos-arm.deb
+Size: 1755400
+MD5sum: e4519cecdba325736185cd9282383a71
+SHA1: eb7c27f5a918d82316b6cf9cbfd01877a810d7b5
+SHA256: 4f3611c990c5275b42e36d6b3ef496dad24fd9d313825fc82e04486ddde33971
+Section: Tweaks
+Description: An All-In-One Tweak For iOS 13.0 - 14.5
+Author: None
+Depiction: None
+Name: Orion
+
+Package: com.sharman.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 276
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/storeswitcher2.deb
+Size: 21028
+MD5sum: a5a3592036aa4b42a1e7b174a4fec144
+SHA1: ad899a5eeeedc70e8b886b5b12edd8906a825cf7
+SHA256: df7c9eeb7c8acee62f8024aca89ad9d8d56775215a57ff3cc107293207ff757f
+Section: Tweaks
+Description: 快速切换商店账号iOS 11+.
+Author: subdiox
+Depiction: None
+Icon: None
+Name: StoreSwitcher 2
 
 Package: com.shortlook.cn
 Version: 0.1
@@ -600,14 +594,14 @@ Version: 1.5.13
 Architecture: iphoneos-arm
 Maintainer: udevs
 Installed-Size: 1384
-Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), firmware(>=13.0), applist
 Filename: ./debs/com.udevs.bakgrunnur_1.5.13_iphoneos-arm.deb
-Size: 237928
-MD5sum: bd96b5074f91653274127b236b568e40
-SHA1: f13aa28ffcc1d5b3e5d84ba87ef75597c265a2f6
-SHA256: 6b08e6a44a562d7754e6297f5985a8bf41d3a2e7a8d02a9a61f43bc3e2a6d8db
+Size: 237784
+MD5sum: c8913d977bf37caa9a6620ac779e0013
+SHA1: 8ad82c2b5cae222bb2b7afde484d06bce1000998
+SHA256: abc33785054dd6e87d6907e0f8ff4f863582d5e16b03dc933c8ba77c5318c219
 Section: Tweaks
-Description: 1.5.13老版本，无需vexillarius依赖版本
+Description: 1.5.13老版本，无需vexillarius,ccsupport依赖版本
 Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
@@ -664,24 +658,6 @@ Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex 3 Beta
-
-Package: github.io.alierya.storeswitcher2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: subdiox
-Installed-Size: 276
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/github.io.alierya.storeswitcher2_1.0.3_iphoneos-arm.deb
-Size: 21104
-MD5sum: a9a2d3b9a92f2a3b3402453e23f94d16
-SHA1: 7422979dc6552434debebceab4255647ef486003
-SHA256: d9a7a35136f115d5a16696c9de38c72de61c3bb9fba301a081751ce462078caf
-Section: Tweaks
-Description: 快速切换商店账号iOS 11+.
-Author: subdiox
-Depiction: https://alierya.github.io/depictions/github.io.alierya.storeswitcher2
-Icon: https://alierya.github.io/DebIcon.png
-Name: StoreSwitcher 2
 
 Package: iOSGods.com.PUBG
 Version: 0.9.18+iOSGods.com
@@ -752,6 +728,22 @@ Section: NoAds
 Description: 旧版本支付宝去广告
 Author: Netskao
 Name: 支付宝 NoAds
+
+Package: netskao.appdata
+Version: 1.3.6-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 976
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.appdata_1.3.6-7_iphoneos-arm.deb
+Size: 206028
+MD5sum: 0d4e0af8516baab91f4dd92c64a290f4
+SHA1: 3c6f6f1b4366e1c45dfcbbbc44b3a89b62980a87
+SHA256: 0a7ebba53e8784067dd1423213a9a30131551f78da4650b36b9293e1e6e66c18
+Section: Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具
+Author: Fouad Raheb
+Name: AppData
 
 Package: netskao.appstore++zhcn
 Version: 1.1-9
@@ -839,6 +831,22 @@ Dev: netskao
 Name: 哔哩哔哩净化
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: netskao.ccpower
+Version: 1.8-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 476
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Filename: ./debs/netskao.ccpower_1.8-8_iphoneos-arm.deb
+Size: 92080
+MD5sum: e5700bbf45a9f9eef5e4ed3399831863
+SHA1: 84fe928b7b315c086b9e3926c456b9be1f7bc80d
+SHA256: 93de3dc57e8550c032f66859b902bd2b4d8102772b3c7160eeeb286a8e39c6e5
+Section: Tweaks
+Description: 通过控制中心快捷关机，重启，注销，软重启，安全模式，重建桌面，重启用户空间，所有操作均有二次确定，显示电池健康百分比，显示电池循环次数，显示运行时间，显示设备总空间和可用空间，显示设备总运存和可用运存，可选点击窗口外关闭，可选锁屏时允许唤出，支持iOS11-14，在控制中心设置页面可设置需要显示的功能
+Author: Netskao
+Name: CCPower
+
 Package: netskao.cnnoads
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -888,6 +896,39 @@ Homepage: https://apps.apple.com/cn/app/%E9%A3%9E%E7%93%9C%E5%BD%B1%E8%A7%86-%E5
 Description: 飞瓜影视去除启动广告，去除所有插入广告，暂停广告等，解锁需观看广告才可播放的限制
 Author: Netskao
 Name: 飞瓜影视 NoAds
+
+Package: netskao.filzacrack
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 172
+Depends: mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/netskao.filzacrack_1.1-7_iphoneos-arm.deb
+Size: 25252
+MD5sum: 1617cf0bcce21d2ee6197a5443d637b0
+SHA1: ff6c5210ba466205e21d0ffeb8b513ad1d7b001f
+SHA256: 4ecff4b86c5d618dd9e588dab35fb8dc6f666714239fe37b00d222145c7a5794
+Section: Cracks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza解锁全功能无限制，主程序官方源安装即可
+Author: Netskao
+Name: Filza Crack
+
+Package: netskao.injectipa
+Version: 1.1-7.9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 1904
+Depends: firmware (>= 11.0)
+Filename: ./debs/netskao.injectipa_1.1-7.9_iphoneos-arm.deb
+Size: 684512
+MD5sum: f7b8f42a78ae7f82a70bf2c0b924171c
+SHA1: 4ac984ac369cf910c6ed0bb826047bea0b2bbab8
+SHA256: 8b398a9d1645781d66bc6ee69b1f0be8a80dca1a2853f3a937911aaf023550e5
+Section: Tools
+Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可
+Author: Netskao
+Name: injectipa
 
 Package: netskao.instagramnoads
 Version: 1.2-6
@@ -968,6 +1009,22 @@ Section: NoAds
 Description: 酷安去除启动广告
 Author: Netskao
 Name: 酷安 NoSplash
+
+Package: netskao.killapps
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 488
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.killapps_1.1-8_iphoneos-arm.deb
+Size: 108288
+MD5sum: 3011d7633668a0676fb57d402200be73
+SHA1: 221ce6cea2c91481c6495b41f31d9dda92fed615
+SHA256: 57041a073df74de03ffecfad90466150176c8a9bf4d6f92b77eeed74d75530a8
+Section: Tweaks
+Description: 给后台切换器添加长按卡片或下滑卡片清除所有后台，支持选择清除白名单，支持选择禁止上滑黑名单等
+Author: Netskao
+Name: KillApps
 
 Package: netskao.kwyycrack
 Version: 1.2-6
@@ -1099,6 +1156,22 @@ Description: Small Notification Banners. Support iOS13-14
 Author: Netskao
 Name: SmallBanners
 
+Package: netskao.swipeselection
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/netskao.swipeselection_1.5.3_iphoneos-arm.deb
+Size: 21428
+MD5sum: 2897eaa4160edfc4b2d730453717b859
+SHA1: d874eb08da38be70ff12d4e6a9e3151770b7449e
+SHA256: bf759a64351731cc1b5ce95fd5a38b6d39bd30e1a9cd9ec1ea8d36905673257b
+Section: Tweaks
+Description: 键盘内滑动快捷移动文字光标
+Author: Kyle Howells
+Name: 键盘内滑动快捷移动文字光标
+
 Package: netskao.tbnoads
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -1130,72 +1203,6 @@ Section: Cracks
 Description: VUE解锁全功能，去除所有广告，增加双击视频保存到相册
 Author: Netskao
 Name: VUE Crack
-
-Package: netskao.wechatpurification
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 891
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: netskao.wechatcallkit, netskao.wechatfakeipad, netskao.wechatnorevokemsg, netskao.wechatpyq
-Replaces: netskao.wechatcallkit, netskao.wechatfakeipad, netskao.wechatnorevokemsg, netskao.wechatpyq
-Filename: ./debs/微信净化1.1.5.deb
-Size: 160984
-MD5sum: 1ebb3fe543838e66f132247df856f109
-SHA1: 41cd94e6be5a502fc9f30c07080775bfa1b8833e
-SHA256: e979a261aea0d60a8b81a114c999df56a7bfbae8138f81400286e30431882dee
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Description: WeChat净化，还原聊天本质，干净的微信给你，详情看预览图
-Tag: purpose::extension, compatible::ios12
-Author: Netskao <netskao@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Dev: netskao
-Icon: file:///Library/PreferenceBundles/WeChatPurification.bundle/WeChatPurification@2x.png
-Name: WeChat 净化
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: netskao.wechatpurification
-Version: 1.5-9
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 473
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/微信净化_1.5-9.deb
-Size: 110606
-MD5sum: 0c6b2565bf09372029f493625c525856
-SHA1: badd41bb822530c30aef6bce0ca8234b3ba11fe3
-SHA256: 0328be519db537e5bf4fc011017edc7f0d991c22c4ccbd2df992bc65d910ccaa
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Description: 微信净化，还原聊天本质，干净的微信给你，设置位于微信-设置
-Tag: purpose::extension
-Author: Netskao <admin@initnil.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Dev: netskao
-Name: 微信净化
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: netskao.wechatpurification
-Version: 2.0-5.2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 542
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/微信净化_2.0-5.2.deb
-Size: 168954
-MD5sum: 8880053fa548e874cfa178f825fdb456
-SHA1: 2b69b533676d6abe2b7ce04db6f8686aa8c58d75
-SHA256: e13ca103843d552266ba81112a9203c04b9975506d60e07f7e69f2a404285842
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Description: 微信净化，还原聊天本质，干净的微信给你，支持7.0.0及以上版本，设置位于微信-设置
-Tag: purpose::extension
-Author: Netskao <admin@initnil.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Dev: netskao
-Name: 微信净化
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: netskao.weibonoads
 Version: 1.7-1
@@ -1261,6 +1268,22 @@ Section: Cracks
 Description: WPS Office开启一部分高级功能，但是不能下载模版
 Author: 7Loopy
 Name: WPS VIP
+
+Package: netskao.wyyyynoads
+Version: 1.2-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2116
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.wyyyynoads_1.2-5_iphoneos-arm.deb
+Size: 415544
+MD5sum: 8d8ca96667fcbfa70d71e8b6f4165776
+SHA1: af04a5b5625e1c6650efe93ef31e67ab0ed3259a
+SHA256: 80f2f232ab8c4aaba411006eb11635161f406e0878e8fdb8a7b5307f91b982ec
+Section: NoAds
+Description: 网易云音乐去广告
+Author: Netskao
+Name: 网易云音乐 NoAds
 
 Package: netskao.xhsnoads
 Version: 1.2-4
