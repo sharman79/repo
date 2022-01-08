@@ -19,19 +19,15 @@ Architecture: iphoneos-arm
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), applist, firmware (>= 11.0)
 Filename: ./debs/com.anthopak.pancake_2.1_iphoneos-arm.deb
-Size: 97484
-MD5sum: 9f8e487ac5408f335aeecf5163b00acb
-SHA1: 7f65d1045235f09c5dbdf1ec1729a242da443461
-SHA256: 09277fad3554c89f34159e0837044e905f24644077fcbf063a2e921df2d7305c
+Size: 97544
+MD5sum: 89b91b14e92a68b26cb7e82b02dc1066
+SHA1: 3f473ee12bcdb9d4581bcca5200d358bc2a566bc
+SHA256: 2da69b963cef53599bf5aa574998ab637940f795f379822b27294ea636cdf174
 Section: Tweaks
-Homepage: https://repo.anthopak.dev
 Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake.php
-Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake/icon.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake.json
+Depiction: None
 Name: PanCake
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake.json
 
 Package: com.c1d3r.pulloverpro
 Version: 2.1.2
@@ -649,12 +645,12 @@ Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firm
 Suggests: com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Filename: ./debs/flex3beta_3~Beta98.deb
-Size: 5524920
-MD5sum: 46baa32b2fdeebe38a1abf95349313e4
-SHA1: 448c0f50a06e6dc8f0e7bb8184203d7bfc81d386
-SHA256: ceb34b40155fad2e4ebae9b3bdf738572c8c1abaa089faef210af49857002491
-Section: Tweaks
+Filename: ./debs/flex3beta_1:3~Beta98_iphoneos-arm.deb
+Size: 5523200
+MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
+SHA1: 5688b049d262589e1f76c3a34e4a7d4892b212a9
+SHA256: 0c9239141a5122dddc13680527b852d71c0cb2602071e2221a398e3a61f09119
+Section: Tools
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
 Name: Flex 3 Beta
@@ -745,6 +741,22 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: netskao.appsmanagercrack
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs/netskao.appsmanagercrack_1.1-7_iphoneos-arm.deb
+Size: 15584
+MD5sum: 7692fd801b9ba1a0fb5971f50ffe4dfe
+SHA1: 0f53937abe5fdce07462e455747abfd4ab7db2bc
+SHA256: 7fa4dbc1af653f8cc634bc59e0f0168e1547bcf0a0f0327b0540e9920c86c608
+Section: Cracks
+Description: Apps Manager解锁全功能无限制，主程序官方源安装即可
+Author: Netskao
+Name: Apps Manager Crack
+
 Package: netskao.appstore++zhcn
 Version: 1.1-9
 Architecture: iphoneos-arm
@@ -816,12 +828,12 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 329
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/bilibilipure_1.1-2.deb
-Size: 83444
-MD5sum: 8239293f9c309387e496bbe7568e82a4
-SHA1: 44bcb86f81069a77e3ff91b326fc2a21f505910a
-SHA256: 705c0743b491a27512bf0865ac5e7a0729d05ff8f2ea5c7d2a2d8b4b90a6e1e1
-Section: Tweaks
+Filename: ./debs/netskao.bilibilipure_1.1-2_iphoneos-arm.deb
+Size: 83476
+MD5sum: f7988548f7d65e43b7c674bbb8d8d986
+SHA1: dae92df9534e13f588779f6033a8a5788a2d9e4f
+SHA256: 5d90cdd53a54c6e452d16f876094b9d84c6990366aaac913e809ce2e38e476d8
+Section: NoAds
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bilibilipureDp
 Description: 老版本净化，支持6.13.0
 Tag: purpose::extension
@@ -880,6 +892,22 @@ Description: 禁用快门声音
 Author: Netskao
 Name: DisableShutterSound
 
+Package: netskao.dumpdecrypter
+Version: 1.2-9.4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 1072
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.dumpdecrypter_1.2-9.4_iphoneos-arm.deb
+Size: 229424
+MD5sum: 6246a04e0ba99a6c62d18f4c1a78acb8
+SHA1: 8be66201da5b2a560f2021cbfa175ca6591aba53
+SHA256: e6627c99c5a6d9e2d76dd90d7451171a9ddb5caabfa777f5060ed16a5f513b66
+Section: Tools
+Description: DumpDecrypter是基于dumpdecrypted的修改封装
+Author: Netskao
+Name: DumpDecrypter
+
 Package: netskao.fgysnoads
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -913,6 +941,22 @@ Homepage: https://tigisoftware.com/cydia/
 Description: Filza解锁全功能无限制，主程序官方源安装即可
 Author: Netskao
 Name: Filza Crack
+
+Package: netskao.fqxsnoads
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.fqxsnoads_1.deb
+Size: 83872
+MD5sum: 9b9a3f959ba08d60c61380af7dedd29a
+SHA1: 670a6eb6392f4291fe55eba68b02dda0d7ed3188
+SHA256: 6a62e366fe4704d5e77b2c61940003219ed2bae1692311a2a793c1a4b5ba025f
+Section: NoAds
+Description: 番茄小说，番茄畅听。去除启动广告，去除首页插入广告和首页更多推荐，去除我的页面小游戏和小黑屋等，解除书籍缓存限制
+Author: Netskao
+Name: 番茄小说 NoAds
 
 Package: netskao.injectipa
 Version: 1.1-7.9
@@ -993,6 +1037,22 @@ Section: NoAds
 Description: 京东去广告
 Author: Netskao
 Name: 京东 NoAds
+
+Package: netskao.jrttnoads
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 272
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.jrttnoads_1.3-3_iphoneos-arm.deb
+Size: 72076
+MD5sum: 13837e961be54186baa1893eebb145ee
+SHA1: ba086c7fcaab1717bee5d771ff093d39222375d7
+SHA256: dc16be657721a7fd1d07e43a9209396e0596378420b7c648b877b992336480c4
+Section: NoAds
+Description: 今日头条，今日头条专业版，今日头条极速版，去广告
+Author: Netskao
+Name: 今日头条 NoAds
 
 Package: netskao.kanosplash
 Version: 1.1-3
@@ -1106,6 +1166,20 @@ Description: PicsArt解锁全功能
 Author: Netskao
 Name: PicsArt Crack
 
+Package: netskao.ppxnoads
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 252
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/netskao.ppxnoads_1.4-2_iphoneos-arm.deb
+Size: 61936
+MD5sum: 22c9a3d9a04080b4cdbe92ba81d5dbb9
+SHA1: 6b2a76cac691e6ea732fab2c7c5cb8662fbc5a35
+SHA256: ca85b99a23a4ce5f9afdfba03970fa211cd136dbfe101dca2c1421e0cc6afd9d
+Section: NoAds
+Description: 皮皮虾去广告支持皮皮虾，皮皮虾专业版，去广告
+
 Package: netskao.qqpurification
 Version: 1.9-9
 Architecture: iphoneos-arm
@@ -1122,6 +1196,39 @@ Section: NoAds
 Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
 Author: Netskao
 Name: QQ净化
+
+Package: netskao.qqyynoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/netskao.qqyynoads_1.deb
+Size: 83012
+MD5sum: 68ac336dea09f1943bb36adabb8d3403
+SHA1: 205a579009b7bbcb9f472440a5d812a8b747fc7d
+SHA256: f777ae0522078fe4d9bae859fef774c70736adf949739c9290ff2cfbff63ea50
+Section: NoAds
+Description: QQ音乐去除启动广告，去除其他广告，去除推荐列表中直播和音乐馆列表中直播，去除首页顶部直播按钮，去除底部电台和扑通按钮等
+Author: Netskao
+Name: QQ音乐 NoAds
+
+Package: netskao.rrspnoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.rrspnoads_1.deb
+Size: 58444
+MD5sum: bbbf15057da99d50c9232d66f8f23122
+SHA1: 835d7d473142a37ca42bde7580ea1ab07d8899d7
+SHA256: 935bf710c37472e9cc819b8d64f1deb42dc50a915802142d8562482ff30ee4db
+Section: NoAds
+Homepage: https://apps.apple.com/cn/app/id1571702274
+Description: 人人视频，人人视频极速版去除启动广告，去除首页精彩推荐，去除视频流中广告，去除播放前广告，去除暂停广告，去除播放时插入广告，去除详情页面相关推荐，去除底部快看按钮等
+Author: Netskao
+Name: 人人视频 NoAds
 
 Package: netskao.shortlook.plugin.contact-photo.wechat
 Version: 1.0.6
@@ -1187,6 +1294,22 @@ Section: NoAds
 Description: 淘宝去广告
 Author: Netskao
 Name: 淘宝 NoAds
+
+Package: netskao.txspnoads
+Version: 1.4-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 252
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.txspnoads_1.4-9_iphoneos-arm.deb
+Size: 60964
+MD5sum: 997e55841baa251767ddafc702336861
+SHA1: 45a011a7e9cae96ac9b3c9a0ced187d8da5b5f94
+SHA256: 1122a1c697e82e84322b03ce2571b0e6effb311b218d9da0015bd52baa2f5e88
+Section: NoAds
+Description: 腾讯视频去广告
+Author: Netskao
+Name: 腾讯视频 NoAds
 
 Package: netskao.vuecrack
 Version: 1.1-2
@@ -1355,12 +1478,12 @@ Architecture: iphoneos-arm
 Maintainer: Nyxz
 Installed-Size: 460
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/bilibilivip.deb
-Size: 305424
-MD5sum: 9d47e5fe25f17901a75f9196c2d0d44b
-SHA1: 99f04caaf26eab51394af2fb0665d2b01b39ad3d
-SHA256: 62083dfe126fb626387ca84635b30059323ac1735bc9a6aeed59e79a87a35866
-Section: Tweaks
+Filename: ./debs/nyxz.bilibilivip_1.5-10_iphoneos-arm.deb
+Size: 305184
+MD5sum: 5ef4593ce840a1527a7211c6ac4db313
+SHA1: c6794de11e326ca9ed24565fd9e150225384648a
+SHA256: 27fa1dfec5173345e7983d98ae5ee7eb7ca2da03738dc2fd8ef9bb29de955907
+Section: Cracks
 Priority: optional
 Description: 哔哩哔哩会员版,支持最新版本,解锁VIP权限,解锁1080P画质,解锁缓存限制,去除所有广告,需要登录(自行购买激活码10¥绑定使用)
 Author: Nyxz
