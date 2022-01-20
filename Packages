@@ -1396,12 +1396,13 @@ Maintainer: Nets
 Installed-Size: 252
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/netskao.ppxnoads_1.4-2_iphoneos-arm.deb
-Size: 61936
-MD5sum: 22c9a3d9a04080b4cdbe92ba81d5dbb9
-SHA1: 6b2a76cac691e6ea732fab2c7c5cb8662fbc5a35
-SHA256: ca85b99a23a4ce5f9afdfba03970fa211cd136dbfe101dca2c1421e0cc6afd9d
+Size: 61928
+MD5sum: 737aa90deac278095d94269b63d3ee20
+SHA1: d2124c09d4050a0b49af76446609e80935031677
+SHA256: c9c37e95b9e5feddd68337b867a293ae376fefeda781f3abe150b567c38876d6
 Section: NoAds
 Description: 皮皮虾去广告支持皮皮虾，皮皮虾专业版，去广告
+Name: 皮皮虾 NoAds
 
 Package: netskao.qqpurification
 Version: 1.9-9
