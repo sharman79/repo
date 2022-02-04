@@ -281,6 +281,21 @@ Description: None
 Author: Sandy0
 Name: Frame 中文包
 
+Package: com.hk.intelligentpass4.cn
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: ./debs/com.hk.intelligentpass4.cn_1.1.1_iphoneos-arm.deb
+Size: 5608
+MD5sum: e8298cfb5ecb8457f43416a6bdc34445
+SHA1: f100a600ac481995f1f915e8bbaa19790898f510
+SHA256: 9c71e6c9eab7e09a733eb5ce543eaee4bf371c0b05014bb714ca779ff71469f4
+Section: zh_CN
+Description: None
+Author: 妖刀
+Name: IntelligentPass4简体中文
+
 Package: com.hk.jailprotect
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -1848,6 +1863,46 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iksetDp
 Dev: ikghd
 Name: iKSettings
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: se.geometric.graphite
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Installed-Size: 1068
+Depends: firmware(>=13.0), mobilesubstrate
+Conflicts: com.muris.libgraphite
+Filename: ./debs/se.geometric.graphite_1.3.3_iphoneos-arm.deb
+Size: 145704
+MD5sum: de9ca771e2fe11ba0187d8d00532de7a
+SHA1: fab9fcbb3c6d1dbe1ad411fedc03e2153ff04cd7
+SHA256: a61d86e5cd280e7d94acdca4d8f0803cab9451106d243b21d6afc7cdcfd98849
+Section: Tweaks
+Description: powerful library for iOS development
+Tag: purpose::library role::developer
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
+Name: Graphite Library
+Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
+
+Package: se.geometric.intelligentpass4
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Installed-Size: 444
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/se.geometric.intelligentpass4_1.2.deb
+Size: 89442
+MD5sum: bb8d0527eb843d3e616941ddf0612476
+SHA1: e6e365e40afa2264d471cecce5ee3fef2a9d4c50
+SHA256: 4717db661898216c758b1e89a7d5c4ff576e91636ea7ba3a2c8792f563ef3bf6
+Section: Tweaks
+Description: Disable passcode when not necessary
+Tag: cydia::commercial
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.intelligentpass4
+Icon: file:///Library/PreferenceBundles/IntelligentPass.bundle/store.png
+Name: IntelligentPass 4
+Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.intelligentpass4/depiction
 
 Package: z.newsysctl
 Version: 3.0
