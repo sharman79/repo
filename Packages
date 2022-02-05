@@ -285,6 +285,7 @@ Package: com.hk.intelligentpass4.cn
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
+<<<<<<< HEAD
 Depends: mobilesubstrate, se.geometric.intelligentpass4
 Filename: ./debs/com.hk.intelligentpass4.cn_1.1.1_iphoneos-arm.deb
 Size: 5456
@@ -294,6 +295,17 @@ SHA256: fc8692bfbc8209d055b4ed303a598b06ff0cacd5ae88b6f9ec7948982bf5cec5
 Section: zh_CN
 Description: None
 Author: None
+=======
+Depends: mobilesubstrate
+Filename: ./debs/com.hk.intelligentpass4.cn_1.1.1_iphoneos-arm.deb
+Size: 5608
+MD5sum: e8298cfb5ecb8457f43416a6bdc34445
+SHA1: f100a600ac481995f1f915e8bbaa19790898f510
+SHA256: 9c71e6c9eab7e09a733eb5ce543eaee4bf371c0b05014bb714ca779ff71469f4
+Section: zh_CN
+Description: None
+Author: 妖刀
+>>>>>>> 67a2d6125350f3fa8a745d5d1b0d9e597fa97bff
 Name: IntelligentPass4简体中文
 
 Package: com.hk.jailprotect
@@ -1872,6 +1884,7 @@ Installed-Size: 1068
 Depends: firmware(>=13.0), mobilesubstrate
 Conflicts: com.muris.libgraphite
 Filename: ./debs/se.geometric.graphite_1.3.3_iphoneos-arm.deb
+<<<<<<< HEAD
 Size: 145816
 MD5sum: d2f78dfffe122b120f9d70066c7757ac
 SHA1: 719e9e8ae8454e086f885d0c38dd748e5d12c523
@@ -1881,6 +1894,19 @@ Description: powerful library for iOS development
 Author: Geometric Software
 Depiction: None
 Name: Graphite Library
+=======
+Size: 145704
+MD5sum: de9ca771e2fe11ba0187d8d00532de7a
+SHA1: fab9fcbb3c6d1dbe1ad411fedc03e2153ff04cd7
+SHA256: a61d86e5cd280e7d94acdca4d8f0803cab9451106d243b21d6afc7cdcfd98849
+Section: Tweaks
+Description: powerful library for iOS development
+Tag: purpose::library role::developer
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
+Name: Graphite Library
+Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
+>>>>>>> 67a2d6125350f3fa8a745d5d1b0d9e597fa97bff
 
 Package: se.geometric.intelligentpass4
 Version: 1.2
@@ -1888,6 +1914,7 @@ Architecture: iphoneos-arm
 Maintainer: Geometric Software
 Installed-Size: 444
 Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+<<<<<<< HEAD
 Filename: ./debs/se.geometric.intelligentpass4_1.2_iphoneos-arm.deb
 Size: 89372
 MD5sum: a39d3a718a8dc2f4bf1ff9922cb5d954
@@ -1898,6 +1925,21 @@ Description: None
 Author: Geometric Software
 Depiction: None
 Name: IntelligentPass 4
+=======
+Filename: ./debs/se.geometric.intelligentpass4_1.2.deb
+Size: 89442
+MD5sum: bb8d0527eb843d3e616941ddf0612476
+SHA1: e6e365e40afa2264d471cecce5ee3fef2a9d4c50
+SHA256: 4717db661898216c758b1e89a7d5c4ff576e91636ea7ba3a2c8792f563ef3bf6
+Section: Tweaks
+Description: Disable passcode when not necessary
+Tag: cydia::commercial
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.intelligentpass4
+Icon: file:///Library/PreferenceBundles/IntelligentPass.bundle/store.png
+Name: IntelligentPass 4
+Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.intelligentpass4/depiction
+>>>>>>> 67a2d6125350f3fa8a745d5d1b0d9e597fa97bff
 
 Package: z.newsysctl
 Version: 3.0
