@@ -1990,12 +1990,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 448
 Depends: mobilesubstrate
-Filename: ./debs/netskao.zmbzcrack_1.deb
-Size: 87860
-MD5sum: 7e2ba44129c701ed5eb818879976f2db
-SHA1: 27453da7b66c37c1d10e29588a0116f04d0e20c4
-SHA256: f1719a5a6d81b96f0f5465d33500eb80c33d447c08d3ba6a7a70a16103545200
-Section: Netskao-Cracks
+Filename: ./debs/netskao.zmbzcrack_1.1-1_iphoneos-arm.deb
+Size: 87352
+MD5sum: 18b640add51045a22716c60b76a1a591
+SHA1: a7bc77f561a850a018b4257b73a94011d3699ff2
+SHA256: 833fb778e2efa98216736d9e7eafa238d095b08127f2d6d0fd60d84912033151
+Section: Cracks
 Description: 最美壁纸。去除启动广告，解锁VIP壁纸和原创壁纸，
 Author: 7Loopy
 Name: 最美壁纸 Crack
