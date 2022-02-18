@@ -1707,6 +1707,22 @@ Description: TikTok save no watermark videos, Click on the original share button
 Author: Netskao
 Name: TikTok Hooks
 
+Package: netskao.tinybanners2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 520
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: ./debs/netskao.tinybanners2_1.0.deb
+Size: 82588
+MD5sum: de8f08bb1095e8ea59d800e0f29385d0
+SHA1: 5db1d7bc338ec41efb523cf2e9524671e2fc3980
+SHA256: 2c03f6ed27885ec9f4a71c0bfac3a42b8fe0514a5f369af09ebdacb5aa259c60
+Section: Tweaks
+Description: 把通知横幅改为小横幅，有设置项，支持iOS12-iOS13
+Author: Don
+Name: TinyBanners 2
+
 Package: netskao.txspnoads
 Version: 1.4-9
 Architecture: iphoneos-arm
