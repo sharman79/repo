@@ -386,11 +386,11 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.lenglengyu.proknockout_0.0.2_iphoneos-arm.deb
-Size: 8004
-MD5sum: 347fd044eb2852722672c5c7f8d64d85
-SHA1: e745f570772e4d853011a781c696e80b4abe04e0
-SHA256: 88c62a531114b727c53e8f1875b3983a624d4757f7b060e601b236aee9a852ba
-Section: Tweaks
+Size: 7988
+MD5sum: 83165b0bc5d6337b3c08a47c558d2376
+SHA1: f7c2303249c28294b3727275423f49b15e630ea4
+SHA256: 163e77f89f105d282229e5fdc5360a8fef4248612d89eb5c2dfb2043d0123643
+Section: Cracks
 Description: 解锁会员滤镜、模版等特权。
 Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/proknockout.html
@@ -599,25 +599,6 @@ Section: Tweaks
 Description: Prevent your device from Auto-Locking when in low power mode
 Author: Spark
 Name: 禁用省电模式自动关屏
-
-Package: com.sutuplus.icleanerpro
-Version: 7.9.1
-Architecture: iphoneos-arm
-Maintainer: sutu
-Installed-Size: 4817
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.sutuplus.icleanerpro_7.9.1_iphoneos-arm.deb
-Size: 3964332
-MD5sum: a34e146f5f0d00ca466c7fc1527ead7b
-SHA1: a0417235a2f5577f1efb8b41e891a9387598b817
-SHA256: 0befb7ddc93ae9f8375d90879a2e4301bfdfa7989806da7aae66dd0800148a9d
-Section: Tools
-Description: 本插件安装包来自苏兔源
-Author: 苏兔
-Depiction: None
-Name: iCleaner Pro NoADS
 
 Package: com.tigisoftware.filza64bit
 Version: 3.9.0-2
@@ -1693,22 +1674,6 @@ Section: Tweaks
 Description: 键盘内滑动快捷移动文字光标
 Author: Kyle Howells
 Name: 键盘内滑动快捷移动文字光标
-
-Package: netskao.szrmbjailbreakedbypass
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 320
-Depends: mobilesubstrate
-Filename: ./debs/netskao.szrmbjailbreakedbypass_1.deb
-Size: 77636
-MD5sum: b3019ea1451308b62b59c2125d9729ae
-SHA1: 165bd3d2607c45deef52339979acb2e86faeb456
-SHA256: a138b238252fb5a27d04a03522a2eb5654618ee8b8dbd0862c4379c9f0fbc8c7
-Section: Tweaks
-Description: 数字人民币绕过越狱检测，支持最新1.3.38版本
-Author: Netskao
-Name: 数字人民币 Jailbreaked Bypass
 
 Package: netskao.tbnoads
 Version: 1.2-1
