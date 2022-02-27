@@ -1,8 +1,8 @@
-Origin: sharman
-Label: sharman
+Origin: Sharman Repo
+Label: Sharman Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: sharman's Repo
+Description: Sharman's Repo
