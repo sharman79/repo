@@ -1971,11 +1971,11 @@ Maintainer: Nyxz
 Installed-Size: 460
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/nyxz.bilibilivip_1.6-10_iphoneos-arm.deb
-Size: 457430
-MD5sum: f34d236c6f659ed6bafd1b21db9081ca
-SHA1: 3ddf79d6212bbacd11ddce6302ade7a4573e1d3b
-SHA256: e3e8a21657370dc572e3ca9b92763de4ac7eca77231278d4529a8a8de188b014
-Section: Nyxz-Tweaks
+Size: 304172
+MD5sum: 889bcdd89e69327d454c8d2426f5064b
+SHA1: 9e7507a64e1ba204cbcf302bea06dbf847c8c24a
+SHA256: 60ea6388316d350a252b0aefe8f0b23fc6ab5c120547b6eb5504d063e987b2a1
+Section: Cracks
 Priority: optional
 Description: 哔哩哔哩会员版,支持最新版本,解锁VIP权限,解锁1080P画质,解锁缓存限制,去除所有广告,需要登录(自行购买激活码绑定使用)
 Author: Nyxz
