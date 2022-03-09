@@ -267,12 +267,12 @@ Package: com.hk.intelligentpass4.cn
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Depends: mobilesubstrate, se.geometric.intelligentpass4
+Depends: mobilesubstrate
 Filename: ./debs/com.hk.intelligentpass4.cn_1.1.1_iphoneos-arm.deb
-Size: 5456
-MD5sum: 1f0692ad576d88f837f59f18b0a47012
-SHA1: 653b7da630afd59b801e64e273c96ec0ed686fae
-SHA256: fc8692bfbc8209d055b4ed303a598b06ff0cacd5ae88b6f9ec7948982bf5cec5
+Size: 5444
+MD5sum: 6759bd24ed2235ba24929f2682cc318b
+SHA1: ff6ad7a92fc21de27342ae879586f5728029005a
+SHA256: 9b8cc6f677b51d9b0379c505d3c193992ec62c6317e9001ec5a8dc0f46d2bcae
 Section: zh_CN
 Description: None
 Author: None
