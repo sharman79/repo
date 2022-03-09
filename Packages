@@ -51,12 +51,12 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 463
 Depends: firmware (>= 11.0), mobilesubstrate, coreutils
-Filename: ./debs/Batchomatic_4.3.1.deb
-Size: 65784
-MD5sum: fa2b74dbb4467f375e524767d27ab8ee
-SHA1: 62a87dbc754b39960ce349d0c5eb5b4d03f13a3c
-SHA256: 1d28616692d11ccc2b278721d107a4d4f9ccd0c934c9d0ea4b4dc058cf892363
-Section: Tweaks
+Filename: ./debs/com.captinc.batchomatic_4.3.1_iphoneos-arm.deb
+Size: 65804
+MD5sum: 3bb1e168b64a9de8498ad89551c4032c
+SHA1: 8798b88ba5075374c5881fe68424814ad56673e8
+SHA256: 73c506bc27627ca43c57a88c22eaa746feac4b0342d9359b309c46be7222a4cd
+Section: Tools
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batchomaticDp
 Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
@@ -521,12 +521,13 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.sharman.orion
 Version: 1.1.0
 Architecture: iphoneos-arm
+Maintainer: None
 Depends: firmware (>=13.0), firmware (<=14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
 Filename: ./debs/com.sharman.orion_1.1.0_iphoneos-arm.deb
-Size: 1755400
-MD5sum: e4519cecdba325736185cd9282383a71
-SHA1: eb7c27f5a918d82316b6cf9cbfd01877a810d7b5
-SHA256: 4f3611c990c5275b42e36d6b3ef496dad24fd9d313825fc82e04486ddde33971
+Size: 1754356
+MD5sum: 7263609e306daf67f66fd57cc2daf34f
+SHA1: fcf9c85941698dbbcdc5969e695b1856c8d677b2
+SHA256: eff36ee1c1e96910a1d069f03f1a49d2a01da985819d4585e9eb631832748204
 Section: Tweaks
 Description: An All-In-One Tweak For iOS 13.0 - 14.5
 Author: None
@@ -1407,11 +1408,11 @@ Maintainer: Nets
 Installed-Size: 188
 Depends: firmware (>= 12.0), preferenceloader, applist
 Filename: ./debs/netskao.networkmanage_1.1-1_iphoneos-arm.deb
-Size: 33372
-MD5sum: b2a027d58106a3ba25a8a82eb596e745
-SHA1: fec30654c2f3381e4ef50e6eafce099bb3c369a8
-SHA256: c9a4df35129112c1785b2072fc5146a86f7acb579960a117bb727061d3bdc51c
-Section: Tweaks
+Size: 33364
+MD5sum: 719a9b7d422c1c346b8b826997971ea4
+SHA1: 0f057926f53f65711d29df8fbdd8f546022ca09f
+SHA256: 17887d19ad8d8c4e78bed069b744abdc8aa5fa3ed7ab2265f48e4c50f189993b
+Section: Tools
 Description: 管理蜂窝和WIFI联网权限，依赖AppList
 Author: Netskao
 Name: NetWorkManage
