@@ -683,23 +683,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
 Name: VideoAdsSpeed
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
 
-Package: flex3beta
-Version: 1:3~Beta98
+Package: github.sharman.intelligentpass4
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
-Suggests: com.rpetrich.rocketbootstrap
-Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Filename: ./debs/flex3beta_1_3~Beta98_iphoneos-arm.deb
-Size: 5523200
-MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
-SHA1: 5688b049d262589e1f76c3a34e4a7d4892b212a9
-SHA256: 0c9239141a5122dddc13680527b852d71c0cb2602071e2221a398e3a61f09119
-Section: Tools
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Author: John Coates
-Name: Flex 3 Beta
+Maintainer: Geometric Software
+Installed-Size: 444
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/github.sharman.intelligentpass4_1.2_iphoneos-arm.deb
+Size: 89368
+MD5sum: e1739f0063a64dbfdcc67d151148a19e
+SHA1: 1ad0d6532a38f09090629369b73fbdbb2a2856e8
+SHA256: 1565066e12f3785e1f3477ce0408cd1b4d112907bb06cb37b6e92e12f70da49c
+Section: Tweaks
+Description: None
+Author: Geometric Software
+Depiction: None
+Name: IntelligentPass 4
 
 Package: love.litten.batterybuddy
 Version: 1.0.2
@@ -1434,36 +1433,6 @@ Description: 管理蜂窝和WIFI联网权限，依赖AppList
 Author: Netskao
 Name: NetWorkManage
 
-Package: netskao.nicebarx
-Version: 2.0.5.2-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), firmware (<= 12.4.4), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/netskao.nicebarx_2.0.5.deb
-Size: 1055180
-MD5sum: a13a9531aa884a5dbbd63ebac0ead778
-SHA1: e99c38398539795441a91cd0c15092977506b949
-SHA256: 75b4e4006f90e19220aafc95427c21730fe23e0a93672cf8350a42c729f5711a
-Section: Tweaks
-Description: 一款强大的状态栏美化和个性化插件，直装破解版，仅供体验有能力者请支持正版
-Author: niceios
-Name: NiceBarX破解版
-
-Package: netskao.nicecaller
-Version: 1.0.0.5-4
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/netskao.nicecaller_1.0.0.deb
-Size: 1398224
-MD5sum: deeaff60269839e9ce74aa740d18b5d4
-SHA1: 24cfb5e609fa227ff1b8533ba3e4b180a645267c
-SHA256: 14878c491cc330baf75faca51b548f80b0bad77cbdfa4d4df37c56c5364b00cb
-Section: Tweaks
-Description: 窗口电话，电话拦截，归属地，T9等功能，直装破解版，仅供体验有能力者请支持正版
-Author: niceios
-Name: NiceCaller破解版
-
 Package: netskao.perfectxtime
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -2037,43 +2006,6 @@ Description: powerful library for iOS development
 Author: Geometric Software
 Depiction: None
 Name: Graphite Library
-
-Package: se.geometric.intelligentpass4
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Geometric Software
-Installed-Size: 444
-Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
-Filename: ./debs/se.geometric.intelligentpass4_1.2.deb
-Size: 89442
-MD5sum: bb8d0527eb843d3e616941ddf0612476
-SHA1: e6e365e40afa2264d471cecce5ee3fef2a9d4c50
-SHA256: 4717db661898216c758b1e89a7d5c4ff576e91636ea7ba3a2c8792f563ef3bf6
-Section: Tweaks
-Description: Disable passcode when not necessary
-Tag: cydia::commercial
-Author: Geometric Software
-Depiction: https://store.geometricsoftware.se/packages/se.geometric.intelligentpass4
-Icon: file:///Library/PreferenceBundles/IntelligentPass.bundle/store.png
-Name: IntelligentPass 4
-Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.intelligentpass4/depiction
-
-Package: se.geometric.intelligentpass4
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Geometric Software
-Installed-Size: 444
-Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
-Filename: ./debs/se.geometric.intelligentpass4_1.2_iphoneos-arm.deb
-Size: 89372
-MD5sum: a39d3a718a8dc2f4bf1ff9922cb5d954
-SHA1: 6b2f14221435ab439e252c29edb357f2e78c26a9
-SHA256: 7d2d12a39376f050530279c91c880d14955bf0a9f4a917c1c9c6eccf0647a661
-Section: Tweaks
-Description: None
-Author: Geometric Software
-Depiction: None
-Name: IntelligentPass 4
 
 Package: z.newsysctl
 Version: 3.0
