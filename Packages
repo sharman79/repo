@@ -684,6 +684,7 @@ Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
 Name: VideoAdsSpeed
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
 
+<<<<<<< HEAD
 Package: github.sharman.intelligentpass4
 Version: 1.2
 Architecture: iphoneos-arm
@@ -701,6 +702,8 @@ Author: Geometric Software
 Depiction: None
 Name: IntelligentPass 4
 
+=======
+>>>>>>> 671840a0424c23c2282e0652e3d66cd46180d5ee
 Package: love.litten.batterybuddy
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -2023,6 +2026,25 @@ Section: Tweaks
 Description: Stop auto-rotate being a nusance!
 Author: CardboardFace
 Name: ImLyingDownDamnit 控制方向锁定
+<<<<<<< HEAD
+=======
+
+Package: sharman.intelligentpass4
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/sharman.intelligentpass4_1.2_iphoneos-arm.deb
+Size: 89384
+MD5sum: c68b453848e7af14ff4aa0cbbbe539ca
+SHA1: 15e679529f52e45913a7a92871a4b35370498bf7
+SHA256: 5fac040238fccb736084069763b3534059c2adf073d5629b004ce14738dec132
+Section: Tweaks
+Description: None
+Author: Geometric Software
+Depiction: None
+Name: IntelligentPass 4
+>>>>>>> 671840a0424c23c2282e0652e3d66cd46180d5ee
 
 Package: z.newsysctl
 Version: 3.0
