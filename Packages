@@ -51,12 +51,12 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 463
 Depends: firmware (>= 11.0), mobilesubstrate, coreutils
-Filename: ./debs/Batchomatic_4.3.1.deb
-Size: 65784
-MD5sum: fa2b74dbb4467f375e524767d27ab8ee
-SHA1: 62a87dbc754b39960ce349d0c5eb5b4d03f13a3c
-SHA256: 1d28616692d11ccc2b278721d107a4d4f9ccd0c934c9d0ea4b4dc058cf892363
-Section: Tweaks
+Filename: ./debs/com.captinc.batchomatic_4.3.1_iphoneos-arm.deb
+Size: 65804
+MD5sum: 3bb1e168b64a9de8498ad89551c4032c
+SHA1: 8798b88ba5075374c5881fe68424814ad56673e8
+SHA256: 73c506bc27627ca43c57a88c22eaa746feac4b0342d9359b309c46be7222a4cd
+Section: Tools
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batchomaticDp
 Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
@@ -267,12 +267,12 @@ Package: com.hk.intelligentpass4.cn
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Depends: mobilesubstrate, se.geometric.intelligentpass4
+Depends: mobilesubstrate
 Filename: ./debs/com.hk.intelligentpass4.cn_1.1.1_iphoneos-arm.deb
-Size: 5456
-MD5sum: 1f0692ad576d88f837f59f18b0a47012
-SHA1: 653b7da630afd59b801e64e273c96ec0ed686fae
-SHA256: fc8692bfbc8209d055b4ed303a598b06ff0cacd5ae88b6f9ec7948982bf5cec5
+Size: 5444
+MD5sum: 6759bd24ed2235ba24929f2682cc318b
+SHA1: ff6ad7a92fc21de27342ae879586f5728029005a
+SHA256: 9b8cc6f677b51d9b0379c505d3c193992ec62c6317e9001ec5a8dc0f46d2bcae
 Section: zh_CN
 Description: None
 Author: None
@@ -521,12 +521,13 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.sharman.orion
 Version: 1.1.0
 Architecture: iphoneos-arm
+Maintainer: None
 Depends: firmware (>=13.0), firmware (<=14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
 Filename: ./debs/com.sharman.orion_1.1.0_iphoneos-arm.deb
-Size: 1755400
-MD5sum: e4519cecdba325736185cd9282383a71
-SHA1: eb7c27f5a918d82316b6cf9cbfd01877a810d7b5
-SHA256: 4f3611c990c5275b42e36d6b3ef496dad24fd9d313825fc82e04486ddde33971
+Size: 1754356
+MD5sum: 7263609e306daf67f66fd57cc2daf34f
+SHA1: fcf9c85941698dbbcdc5969e695b1856c8d677b2
+SHA256: eff36ee1c1e96910a1d069f03f1a49d2a01da985819d4585e9eb631832748204
 Section: Tweaks
 Description: An All-In-One Tweak For iOS 13.0 - 14.5
 Author: None
@@ -682,24 +683,6 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
 Name: VideoAdsSpeed
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
-
-Package: flex3beta
-Version: 1:3~Beta98
-Architecture: iphoneos-arm
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
-Suggests: com.rpetrich.rocketbootstrap
-Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Filename: ./debs/flex3beta_1_3~Beta98_iphoneos-arm.deb
-Size: 5523200
-MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
-SHA1: 5688b049d262589e1f76c3a34e4a7d4892b212a9
-SHA256: 0c9239141a5122dddc13680527b852d71c0cb2602071e2221a398e3a61f09119
-Section: Tools
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Author: John Coates
-Name: Flex 3 Beta
 
 Package: love.litten.batterybuddy
 Version: 1.0.2
@@ -1425,44 +1408,14 @@ Maintainer: Nets
 Installed-Size: 188
 Depends: firmware (>= 12.0), preferenceloader, applist
 Filename: ./debs/netskao.networkmanage_1.1-1_iphoneos-arm.deb
-Size: 33372
-MD5sum: b2a027d58106a3ba25a8a82eb596e745
-SHA1: fec30654c2f3381e4ef50e6eafce099bb3c369a8
-SHA256: c9a4df35129112c1785b2072fc5146a86f7acb579960a117bb727061d3bdc51c
-Section: Tweaks
+Size: 33364
+MD5sum: 719a9b7d422c1c346b8b826997971ea4
+SHA1: 0f057926f53f65711d29df8fbdd8f546022ca09f
+SHA256: 17887d19ad8d8c4e78bed069b744abdc8aa5fa3ed7ab2265f48e4c50f189993b
+Section: Tools
 Description: 管理蜂窝和WIFI联网权限，依赖AppList
 Author: Netskao
 Name: NetWorkManage
-
-Package: netskao.nicebarx
-Version: 2.0.5.2-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), firmware (<= 12.4.4), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/netskao.nicebarx_2.0.5.deb
-Size: 1055180
-MD5sum: a13a9531aa884a5dbbd63ebac0ead778
-SHA1: e99c38398539795441a91cd0c15092977506b949
-SHA256: 75b4e4006f90e19220aafc95427c21730fe23e0a93672cf8350a42c729f5711a
-Section: Tweaks
-Description: 一款强大的状态栏美化和个性化插件，直装破解版，仅供体验有能力者请支持正版
-Author: niceios
-Name: NiceBarX破解版
-
-Package: netskao.nicecaller
-Version: 1.0.0.5-4
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/netskao.nicecaller_1.0.0.deb
-Size: 1398224
-MD5sum: deeaff60269839e9ce74aa740d18b5d4
-SHA1: 24cfb5e609fa227ff1b8533ba3e4b180a645267c
-SHA256: 14878c491cc330baf75faca51b548f80b0bad77cbdfa4d4df37c56c5364b00cb
-Section: Tweaks
-Description: 窗口电话，电话拦截，归属地，T9等功能，直装破解版，仅供体验有能力者请支持正版
-Author: niceios
-Name: NiceCaller破解版
 
 Package: netskao.perfectxtime
 Version: 1.1-1
@@ -2044,27 +1997,7 @@ Architecture: iphoneos-arm
 Maintainer: Geometric Software
 Installed-Size: 444
 Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
-Filename: ./debs/se.geometric.intelligentpass4_1.2.deb
-Size: 89442
-MD5sum: bb8d0527eb843d3e616941ddf0612476
-SHA1: e6e365e40afa2264d471cecce5ee3fef2a9d4c50
-SHA256: 4717db661898216c758b1e89a7d5c4ff576e91636ea7ba3a2c8792f563ef3bf6
-Section: Tweaks
-Description: Disable passcode when not necessary
-Tag: cydia::commercial
-Author: Geometric Software
-Depiction: https://store.geometricsoftware.se/packages/se.geometric.intelligentpass4
-Icon: file:///Library/PreferenceBundles/IntelligentPass.bundle/store.png
-Name: IntelligentPass 4
-Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.intelligentpass4/depiction
-
-Package: se.geometric.intelligentpass4
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Geometric Software
-Installed-Size: 444
-Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
-Filename: ./debs/se.geometric.intelligentpass4_1.2_iphoneos-arm.deb
+Filename: ./debs/intelligentpass4_1.2.deb
 Size: 89372
 MD5sum: a39d3a718a8dc2f4bf1ff9922cb5d954
 SHA1: 6b2f14221435ab439e252c29edb357f2e78c26a9
@@ -2074,6 +2007,22 @@ Description: None
 Author: Geometric Software
 Depiction: None
 Name: IntelligentPass 4
+
+Package: sharman.imlayingdowndamnit
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CardboardFace
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/sharman.imlayingdowndamnit_1.4.7_iphoneos-arm.deb
+Size: 117420
+MD5sum: c6f91beba3daf871ddd2e24655170515
+SHA1: 425152a4e6e008ac0a441fdc5cb2f63af645d996
+SHA256: f43b3f9de56e565600c49d335f9694438daa22f785eeb7f08283292824838d61
+Section: Tweaks
+Description: Stop auto-rotate being a nusance!
+Author: CardboardFace
+Name: ImLyingDownDamnit 控制方向锁定
 
 Package: z.newsysctl
 Version: 3.0
