@@ -684,6 +684,29 @@ Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
 Name: VideoAdsSpeed
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Package: github.sharman.intelligentpass4
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Installed-Size: 444
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/github.sharman.intelligentpass4_1.2_iphoneos-arm.deb
+Size: 89404
+MD5sum: d627f8d5cb44ab08b50e92934b82f3cb
+SHA1: f1e629b6af68300a4765d41eca3bc675d9b4efe7
+SHA256: f9593463294ce5622c1d29f1e2c66925db4e6167a9f7f8228c58cfc775d8fde5
+Section: Tweaks
+Description: None
+Author: Geometric Software
+Depiction: None
+Name: IntelligentPass 4
+
+=======
+>>>>>>> 671840a0424c23c2282e0652e3d66cd46180d5ee
+>>>>>>> 8e3ae5c0ae1ec664df3d9f9cf8ce35d0f635f8e7
 Package: love.litten.batterybuddy
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -1991,6 +2014,7 @@ Author: Geometric Software
 Depiction: None
 Name: Graphite Library
 
+<<<<<<< HEAD
 Package: se.geometric.intelligentpass4
 Version: 1.2
 Architecture: iphoneos-arm
@@ -2002,11 +2026,42 @@ Size: 89372
 MD5sum: a39d3a718a8dc2f4bf1ff9922cb5d954
 SHA1: 6b2f14221435ab439e252c29edb357f2e78c26a9
 SHA256: 7d2d12a39376f050530279c91c880d14955bf0a9f4a917c1c9c6eccf0647a661
+=======
+Package: sharman.imlayingdowndamnit
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CardboardFace
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/sharman.imlayingdowndamnit_1.4.7_iphoneos-arm.deb
+Size: 117420
+MD5sum: c6f91beba3daf871ddd2e24655170515
+SHA1: 425152a4e6e008ac0a441fdc5cb2f63af645d996
+SHA256: f43b3f9de56e565600c49d335f9694438daa22f785eeb7f08283292824838d61
+Section: Tweaks
+Description: Stop auto-rotate being a nusance!
+Author: CardboardFace
+Name: ImLyingDownDamnit 控制方向锁定
+<<<<<<< HEAD
+=======
+
+Package: sharman.intelligentpass4
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/sharman.intelligentpass4_1.2_iphoneos-arm.deb
+Size: 89384
+MD5sum: c68b453848e7af14ff4aa0cbbbe539ca
+SHA1: 15e679529f52e45913a7a92871a4b35370498bf7
+SHA256: 5fac040238fccb736084069763b3534059c2adf073d5629b004ce14738dec132
+>>>>>>> 8e3ae5c0ae1ec664df3d9f9cf8ce35d0f635f8e7
 Section: Tweaks
 Description: None
 Author: Geometric Software
 Depiction: None
 Name: IntelligentPass 4
+>>>>>>> 671840a0424c23c2282e0652e3d66cd46180d5ee
 
 Package: sharman.imlayingdowndamnit
 Version: 1.4.7
