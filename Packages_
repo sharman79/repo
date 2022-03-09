@@ -683,23 +683,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
 Name: VideoAdsSpeed
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
 
-Package: github.sharman.intelligentpass4
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Geometric Software
-Installed-Size: 444
-Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
-Filename: ./debs/github.sharman.intelligentpass4_1.2_iphoneos-arm.deb
-Size: 89368
-MD5sum: e1739f0063a64dbfdcc67d151148a19e
-SHA1: 1ad0d6532a38f09090629369b73fbdbb2a2856e8
-SHA256: 1565066e12f3785e1f3477ce0408cd1b4d112907bb06cb37b6e92e12f70da49c
-Section: Tweaks
-Description: None
-Author: Geometric Software
-Depiction: None
-Name: IntelligentPass 4
-
 Package: love.litten.batterybuddy
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -2006,6 +1989,22 @@ Description: powerful library for iOS development
 Author: Geometric Software
 Depiction: None
 Name: Graphite Library
+
+Package: sharman.intelligentpass4
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/sharman.intelligentpass4_1.2_iphoneos-arm.deb
+Size: 89384
+MD5sum: c68b453848e7af14ff4aa0cbbbe539ca
+SHA1: 15e679529f52e45913a7a92871a4b35370498bf7
+SHA256: 5fac040238fccb736084069763b3534059c2adf073d5629b004ce14738dec132
+Section: Tweaks
+Description: None
+Author: Geometric Software
+Depiction: None
+Name: IntelligentPass 4
 
 Package: z.newsysctl
 Version: 3.0
