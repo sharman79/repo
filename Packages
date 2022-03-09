@@ -1991,6 +1991,22 @@ Author: Geometric Software
 Depiction: None
 Name: Graphite Library
 
+Package: sharman.imlayingdowndamnit
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CardboardFace
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/sharman.imlayingdowndamnit_1.4.7_iphoneos-arm.deb
+Size: 117420
+MD5sum: c6f91beba3daf871ddd2e24655170515
+SHA1: 425152a4e6e008ac0a441fdc5cb2f63af645d996
+SHA256: f43b3f9de56e565600c49d335f9694438daa22f785eeb7f08283292824838d61
+Section: Tweaks
+Description: Stop auto-rotate being a nusance!
+Author: CardboardFace
+Name: ImLyingDownDamnit 控制方向锁定
+
 Package: sharman.intelligentpass4
 Version: 1.2
 Architecture: iphoneos-arm
