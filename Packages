@@ -66,6 +66,54 @@ Dev: captinc
 Name: Batchomatic
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cike.fgys
+Version: 1.0.7-1+debug
+Architecture: iphoneos-arm
+Maintainer: Cike
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.cike.fgys_1.0.7-1+debug_iphoneos-arm.deb
+Size: 13028
+MD5sum: b05c4d1f78126cd72f15ffd1315af7c4
+SHA1: ea3b9f017e6ab88ac6c586ad4deaec6afbe8462f
+SHA256: efbfa72ca7aefa09e1f84d1dc2af9baf378cfb6577057a4119a2504284f622b8
+Section: NoAds
+Description: 去启动/我的页面弹窗/暂停/播放前/详情页面广告.经测试多次点击播放详情页面【更多推荐】会偶发闪退.这是开发者优化问题.
+Author: Cike
+Name: 飞瓜影视 NoAds
+
+Package: com.cike.wbgjb
+Version: 4.6.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: 583386935@qq.com
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.cike.wbgjb_4.6.3-1+debug_iphoneos-arm.deb
+Size: 12312
+MD5sum: 46e39f7ac1f945c7149635cd76d3aa85
+SHA1: ee06a4374c7a8beb8629b3d327ff74d594e83408
+SHA256: 63fa70b28212803f9b9d286f1d8eaa3e5b4f82dccbcf47c68adde1f967e47a4f
+Section: NoAds
+Description: 启动广告/屏蔽个性化广告推送
+Author: Cike
+Name: 微博国际版 NoAds
+
+Package: com.cike.ykxc
+Version: 3.12.6+debug
+Architecture: iphoneos-arm
+Maintainer: 583386935@qq.com
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.cike.ykxc_3.12.6+debug_iphoneos-arm.deb
+Size: 20380
+MD5sum: ef3ff15c450c368bb82151b788b1a673
+SHA1: 23de6cf665adbefc834ece6cb3a49654c31d105b
+SHA256: fb15ec6e598da4c679f336f9954c1bc98975097ceb6538f473eae15c36753be4
+Section: NoAds
+Description: 去除GDT.百度.Ks推送的冷启动广告.以及随机启动广告.去除热启动广告.去除部分角标.去除TF版推送.基于3.12.6调试.兼容低版本.请勿分享第三方平台.如分享.请与我联系.谢谢.
+Author: 刺客🥷
+Name: 一刻相册NoAds
+
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.16-2
 Architecture: iphoneos-arm
@@ -448,6 +496,22 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/Snapper2CC/icon.png
 Name: Snapper2 CC Toggle
 
+Package: com.peng.ysdq
+Version: 3.9.6-1+debug
+Architecture: iphoneos-arm
+Maintainer: peng
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.peng.ysdq_3.9.6-1+debug_iphoneos-arm.deb
+Size: 10536
+MD5sum: 6e33bbc70bfaaba3c7d471ad16b1dfcf
+SHA1: 3de1dfdaeaa448d4660ee1b30db65d448d703f1a
+SHA256: dbc6c9dcdf12089969a35d65eccded402579b8467b02bd056a4dc6f8bd72c810
+Section: Cracks
+Description: 去广告/破解
+Author: peng
+Name: 影视大全Crack
+
 Package: com.photosnoforyou
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -566,6 +630,22 @@ Section: zh_CN
 Description: None
 Author: sharman
 Name: shortlook 中文包
+
+Package: com.snail.xianyunoad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: None
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.xianyunoad_0.0.1_iphoneos-arm.deb
+Size: 4292
+MD5sum: 6ca9a964bb81f9b31e6ba8bededc2d0a
+SHA1: cb1cb2fcb288e451b3c983ea00d0a5908b456793
+SHA256: 35f1e9272a7c0e66f28fa9d672d50da60b5cce471ff0b210a7190791ce0d911c
+Section: NoAds
+Description: 咸鱼去广告，支持所有版本。
+Author: Snail <snailsohi@gmail.com>
+Name: 闲鱼 NoAds
 
 Package: com.spark.nolowpowerautolock
 Version: 0.0.3
@@ -702,6 +782,22 @@ Depiction: https://repo.litten.love/depictions/BatteryBuddy/index.html
 Icon: https://repo.litten.love/depictions/BatteryBuddy/assets/icon.png
 Name: BatteryBuddy ⚡️
 Sileodepiction: https://repo.litten.love/depictions/BatteryBuddy/index.json
+
+Package: net.cike.gddtnoad
+Version: 11.10
+Architecture: iphoneos-arm
+Maintainer: 583386935@qq.com
+Installed-Size: 148
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.cike.gddtnoad_11.10_iphoneos-arm.deb
+Size: 18340
+MD5sum: 0b1185d601141de9e94a83d0bf5a24d2
+SHA1: e68c18570c701cddc242f2c600a6e9bc65f45c0a
+SHA256: 72a13dc11c9d7a210f5f45ec87a27f4116ac1a91855847945ac02667effeace5
+Section: NoAds
+Description: 去广告
+Author: 刺客🥷
+Name: 高德地图 NoAds
 
 Package: net.tateu.debkeeper12
 Version: 1.0.7
@@ -1109,23 +1205,6 @@ Section: NoAds
 Description: 斗鱼直播去除两层启动广告，去除首页直播信息流中广告，去除直播页面刷礼物动画，去除首页顶部横幅中广告，去除我的页面横幅广告，去除青少年提示等
 Author: Netskao
 Name: 斗鱼直播 NoAds
-
-Package: netskao.fgysnoads
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 236
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.fgysnoads_1.1-3_iphoneos-arm.deb
-Size: 56268
-MD5sum: c320e5ece9fa1b7b2e6940b70a4e933b
-SHA1: a4638c0898856f0ddfe7d45d632e0184fa13b656
-SHA256: 3c4b83eca4cefaa51023a99572fd32966d3eab112882864f0ed6646aa619f706
-Section: NoAds
-Homepage: https://apps.apple.com/cn/app/%E9%A3%9E%E7%93%9C%E5%BD%B1%E8%A7%86-%E5%BD%B1%E8%AF%84%E4%B8%96%E7%95%8C/id1574506424
-Description: 飞瓜影视去除启动广告，去除所有插入广告，暂停广告等，解锁需观看广告才可播放的限制
-Author: Netskao
-Name: 飞瓜影视 NoAds
 
 Package: netskao.filzacrack
 Version: 1.1-7
