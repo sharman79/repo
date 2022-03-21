@@ -29,22 +29,6 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: None
 Name: PanCake
 
-Package: com.c1d3r.pulloverpro
-Version: 2.1.2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 1468
-Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: ./debs/Pullover Pro_2.1.2.deb
-Size: 371152
-MD5sum: 97f0269c1aadcaa3b1f737844ffedd21
-SHA1: 77ca6a6c64d50b6b4757e57d30751f24bea2f34f
-SHA256: fa9071e4a664262cf9b2c67f5b3d115f83c8c25847cbe9cf9f475817a37adf1a
-Section: Tweaks
-Description: ios14+键盘修复版
-Author: c1d3r
-Name: PullOver Pro
-
 Package: com.captinc.batchomatic
 Version: 4.3.1
 Architecture: iphoneos-arm
@@ -443,26 +427,6 @@ Description: 解锁高级版权限。
 Author: lenglengyu
 Depiction: None
 Name: Slidebox Pro
-
-Package: com.noisyflake.networkmanager
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: NoisyFlake
-Installed-Size: 336
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/控制中心切换网络.deb
-Size: 27588
-MD5sum: a8cff3302e8bbd2e293afd8a14eca9ba
-SHA1: 7b8d8d64c206e6fa7daccbb71922c3f480abee7a
-SHA256: 3d4baa763068b217cfdc2709508ef32bfa4e7049da5e5ff3fbbc7873e3342b77
-Section: Tweaks
-Description: 通过控制中心快速切换2G/3G/4G/5G
-A12: 1
-Author: NoisyFlake
-Icon: file:///Applications/Cydia.app/Sections/System.png
-Icon2: 12.png
-Name: 控制中心切换网络
-Sponsor: NoisyFlake
 
 Package: com.orion.cn
 Version: 0.1
